@@ -11,3 +11,4 @@ elif score > 5000 and coin in coins:
     print("You have reached level 1. Keep going")
 else:
     print("Increase your score and collect coins to move up")
+
