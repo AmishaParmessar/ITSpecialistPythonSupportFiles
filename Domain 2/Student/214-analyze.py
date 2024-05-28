@@ -1,5 +1,5 @@
 coins = ['Bronze', 'Silver', 'Gold','Platinum']
-coin = 'gold'
+coin = 'Gold'
 score = 10000
 
 if score > 10000:
